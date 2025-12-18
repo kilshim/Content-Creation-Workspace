@@ -1,0 +1,5 @@
+{
+  "name": "Content Creation Workspace",
+  "description": "A workspace for generating structured prompts for GPT and executing them with Gemini.",
+  "requestFramePermissions": []
+}
