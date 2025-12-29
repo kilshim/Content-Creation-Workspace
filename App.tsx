@@ -371,7 +371,9 @@ export default function App() {
           </div>
 
           <footer className="mt-12 text-center text-xs text-slate-400 dark:text-dark-sub pb-8">
-            © 2025 Content Creation Workspace • React & Gemini
+            <a href="https://xn--design-hl6wo12cquiba7767a.com/" target="_blank" rel="noopener noreferrer" className="hover:text-brand-500 transition-colors">
+              떨림과울림Design.com
+            </a>
           </footer>
         </main>
       </div>
